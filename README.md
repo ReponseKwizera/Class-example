@@ -2,6 +2,6 @@
 
 This is a demo repo for my class in CSE 220
 
-## subtitle
+## Subtitle
 
-Blah blah blah
+I think this is a much much much better message.
