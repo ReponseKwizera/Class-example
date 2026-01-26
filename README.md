@@ -1,7 +1,7 @@
 # Class-example Repo
 
 This is a demo repo for my class in CSE 220
-#          Discriptions
+#          Descriptions
 Name :
 
 Age:
